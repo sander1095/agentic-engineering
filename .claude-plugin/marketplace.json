@@ -1,0 +1,15 @@
+{
+  "name": "agentic-engineering",
+  "description": "Skills for agentic engineering by Sander ten Brinke.",
+  "owner": {
+    "name": "Sander ten Brinke",
+    "url": "https://github.com/sander1095"
+  },
+  "plugins": [
+    {
+      "name": "agentic-engineering",
+      "description": "Skills for agentic engineering, starting with tired-reviewer: make text concise and readable with a fresh, impatient reviewer.",
+      "source": "./"
+    }
+  ]
+}

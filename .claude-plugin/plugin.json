@@ -1,0 +1,13 @@
+{
+  "name": "agentic-engineering",
+  "description": "Skills for agentic engineering, starting with tired-reviewer: make text concise and readable with a fresh, impatient reviewer.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Sander ten Brinke",
+    "url": "https://github.com/sander1095"
+  },
+  "homepage": "https://github.com/sander1095/agentic-engineering",
+  "repository": "https://github.com/sander1095/agentic-engineering",
+  "license": "MIT",
+  "keywords": ["skills", "writing", "review", "concise"]
+}

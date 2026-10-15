@@ -1,0 +1,10 @@
+{
+  "name": "agentic-engineering",
+  "version": "1.0.0",
+  "description": "Skills for agentic engineering, starting with tired-reviewer: make text concise and readable with a fresh, impatient reviewer.",
+  "type": "module",
+  "main": ".opencode/plugins/agentic-engineering.js",
+  "repository": "https://github.com/sander1095/agentic-engineering",
+  "license": "MIT",
+  "keywords": ["opencode", "skills", "writing", "review"]
+}
